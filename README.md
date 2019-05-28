@@ -19,8 +19,11 @@ Generated training samples of good and bad links from given directed graph and f
 ### Some reference papers and videos :
 
 https://www.cs.cornell.edu/home/kleinber/link-pred.pdf
+
 https://www3.nd.edu/~dial/publications/lichtenwalter2010new.pdf
+
 https://kaggle2.blob.core.windows.net/forum-message-attachments/2594/supervised_link_prediction.pdf
+
 https://www.youtube.com/watch?v=2M77Hgy17cg
 
 ### Business objectives and constraints:
